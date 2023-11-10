@@ -5,3 +5,5 @@ def find_duplicate(arr):
     return len(set_arr) == len(arr)
 
 print(find_duplicate(arr1))
+
+
