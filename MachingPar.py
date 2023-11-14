@@ -8,7 +8,9 @@ def matchpar (str):
             if not List_of_pars:
                 return False
             List_of_pars.pop()
-    return len(List_of_pars) == 0  
+    return len(List_of_pars) == 0 
+
+print("I like that") 
 
 print(matchpar("(Alish)"))
 print(matchpar("(Alish)())"))
