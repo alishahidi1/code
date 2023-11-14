@@ -10,7 +10,6 @@ def matchpar (str):
             List_of_pars.pop()
     return len(List_of_pars) == 0 
 
-print("I like that") 
 
 print(matchpar("(Alish)"))
 print(matchpar("(Alish)())"))
