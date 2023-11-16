@@ -17,5 +17,3 @@ print(matchpar("(Salanm))(())"))
 
 print(matchpar("Salanm))(()dfdfdf"))
 print("End!")
-
-#End
